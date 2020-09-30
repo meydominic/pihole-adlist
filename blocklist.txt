@@ -1,1 +1,26 @@
-
+# Amazon ads
+amazon-adsystem.com
+aax.amazon-adsystem.com
+aax-eu.amazon-adsystem.com
+aax-fe.amazon-adsystem.com
+aax-fe-pek.amazon-adsystem.com
+aax-fe-sin.amazon-adsystem.com
+aax-us-east.amazon-adsystem.com
+c.amazon-adsystem.com
+fls-eu.amazon-adsystem.com
+fls-fe.amazon-adsystem.com
+fls-na.amazon-adsystem.com
+ir-de.amazon-adsystem.com
+ir-jp.amazon-adsystem.com
+ir-na.amazon-adsystem.com
+rcm-eu.amazon-adsystem.com
+rcm-fe.amazon-adsystem.com
+rcm-na.amazon-adsystem.com
+s.amazon-adsystem.com
+wms-eu.amazon-adsystem.com
+wms-fe.amazon-adsystem.com
+wms-na.amazon-adsystem.com
+ws-eu.amazon-adsystem.com
+ws-fe.amazon-adsystem.com
+ws-na.amazon-adsystem.com
+ps-us.amazon-adsystem.com
